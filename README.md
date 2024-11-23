@@ -23,6 +23,8 @@ In addition to its analytical capabilities, the Political Critic engages users t
 [Political Simulator](https://chat.openai.com/g/g-4GT3x5ITg-political-simulator)
 <br>
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Citizen Simulator](https://github.com/sourceduty/Citizen_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
